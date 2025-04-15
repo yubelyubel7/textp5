@@ -1,7 +1,7 @@
 var font;
 let points = [];
 let textString = "What The Sigma!?";
-let fontSize = 144;
+let fontSize = 80;
 
 function preload() {
   font = loadFont('./data/PlayfulTime-BLBB8.ttf');
